@@ -37,6 +37,9 @@ Diagrams made in overleaf:
 (d) code in file 2d.c
 
 
+https://github.com/user-attachments/assets/a92db793-c17c-471e-b073-088125484fac
+
+
 
 
 
